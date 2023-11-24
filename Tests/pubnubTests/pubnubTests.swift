@@ -1,5 +1,5 @@
 import XCTest
-@testable import pubnub
+@testable import PubNub
 
 final class pubnubTests: XCTestCase {
     func testExample() throws {
